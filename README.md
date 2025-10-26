@@ -1,4 +1,4 @@
-# Gentoo-DELL-latitude-7390
+f# Gentoo-DELL-latitude-7390
 ### Gentoo kernel configuration and more for the DELL latitude-7390 laptop. (Touchscreen, Touchpad, Audio, etc.)
 
 
@@ -12,7 +12,7 @@
 - It uses proprietary drivers
 - Doesn't work out of the box
 - Requires (rather) advanced configuration in order to work
-- It is a popular laptop and I simply want everyone (even beginners) to be able to enjoy gentoo to its fullest and not give up halway through because nothing works
+- It is a popular laptop and I simply want everyone (even beginners) to be able to enjoy gentoo to its fullest and not give up halfway through because nothing works
 
 # What I added
 - At the time of making this I used gentoo-sources (6.1.19)
